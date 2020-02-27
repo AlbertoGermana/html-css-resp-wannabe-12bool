@@ -8,6 +8,7 @@ h2{
   text-align: center;
   font-size: 30px;
   margin-top: 20px;
+  padding-top : 20px;
 }
 
 .row{
@@ -22,7 +23,16 @@ h2{
   padding: 20px;
   margin: 20px auto;
 }
+#steps{
+  background-color: lightgray;
 
+}
+
+#why img{
+  background-color: #428bca;
+  border-radius: 50%;
+  padding: 20px;
+}
 
 /* MEDIA QUERIES */
 }@media screen and (max-width: 768px){
